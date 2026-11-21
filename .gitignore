@@ -1,0 +1,16 @@
+# build output
+app
+app.exe
+*.o
+*.obj
+*.exe
+
+# local save data
+bestscore.txt
+
+# background music is not distributed (add your own)
+
+.DS_Store
+.vscode/
+assets/*
+!assets/README.md
